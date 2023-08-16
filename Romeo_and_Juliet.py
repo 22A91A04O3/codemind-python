@@ -1,5 +1,5 @@
-a=int(input())
-b=int(input())
-c=int(input())
-x=(5*a+10*b)//c
-print(x)
+x=int(input())
+y=int(input())
+z=int(input())
+a=(x*5+y*10)//z
+print(a)
