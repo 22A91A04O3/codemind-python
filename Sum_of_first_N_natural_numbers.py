@@ -1,3 +1,3 @@
-N=int(input())
-x=(N*(N+1))//2
-print(x)
+a=int(input())
+b=(a*(a+1))//2
+print(b)
